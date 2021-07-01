@@ -1,10 +1,15 @@
-### Hi there 👋
+
+<div align="center">
+<img src="https://github.com/aloRanking/aloRanking/blob/main/header1.png" align="center" width="100%" height="300" alt="banner that says Adigun Alo, Software developer">
+ 
+ </div> 
 
 <!-- <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%, height: 60%" />
 </div>   
  -->
-## <div align="center">I'm Alo, a Mobile App developer 👨‍💻 </div>    
+ ### Hi there 👋
+## <div align="center">I'm Adigun Alo, a Mobile App developer 👨‍💻 </div>    
 
 - 🔭 I’m currently working on [RUS](https://renturstatus.com) mobile App.   
 
@@ -80,10 +85,14 @@
 <br/>  
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=aloranking&show_icons=true&count_private=true&hide_border=true" align="center" /> 
+## Github Stats 
+<div>
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=aloranking&show_icons=true&count_private=true&hide_border=true"  />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloranking&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloranking&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+  
+ 
+ </div>
 
 
 <br />
