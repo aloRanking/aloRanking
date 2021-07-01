@@ -6,7 +6,7 @@
  -->
 ## <div align="center">I'm Alo, a Mobile App developer 👨‍💻 </div>    
 
-- 🔭 I’m currently working on [RUS](https://github.com/rishavanand/github-profilinator)    
+- 🔭 I’m currently working on [RUS](https://renturstatus.com) mobile App.   
 
 - 🌱 I’m currently learning Dart + Flutter
 
