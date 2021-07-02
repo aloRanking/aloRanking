@@ -4,12 +4,13 @@
  
  </div> 
 
-<!-- <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%, height: 60%" />
-</div>   
- -->
  ### Hi there 👋
-## <div align="center">I'm Adigun Alo, a Mobile App developer 👨‍💻 </div>    
+## <div align="center">I'm Adigun Alo, A Mobile App developer 👨‍💻 </div>  
+
+I specialize in building efficient mobile apps that work across all platforms, apps that are useable na dpresentable for people.
+Skilled with working as a team and incorporating input into projects with effective communication. Strong eye for detail and tenacity to never quit on
+something until it is absolutely perfect.
+
 
 - 🔭 I’m currently working on [RUS](https://renturstatus.com) mobile App.   
 
@@ -24,7 +25,6 @@
 - ⚡ Fun fact: Anime lover  
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -67,7 +67,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://twitter.com/chuck8612" target="_blank">
@@ -79,11 +78,9 @@
 <a href="https://github.com/aloranking" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>    
 
 <br/>  
-
 
 ## Github Stats 
 <div>
@@ -93,7 +90,6 @@
   
  
  </div>
-
 
 <br />
 
