@@ -7,14 +7,14 @@
  ### Hi there 👋
 ## <div align="center">I'm Adigun Alo, A Mobile App developer 👨‍💻 </div>  
 
-I specialize in building efficient mobile apps that work across all platforms, apps that are useable na dpresentable for people.
+I specialize in building efficient mobile apps that work across all platforms, apps that are useable and presentable for people.
 Skilled with working as a team and incorporating input into projects with effective communication. Strong eye for detail and tenacity to never quit on
 something until it is absolutely perfect.
 
 
 - 🔭 I’m currently working on [RUS](https://renturstatus.com) mobile App.   
 
-- 🌱 I’m currently learning Dart + Flutter
+- 🌱 I’m currently working with Dart + Flutter
 
 - 👯 I’m looking to collaborate on Mobile App Project
 
