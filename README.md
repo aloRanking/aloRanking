@@ -12,7 +12,7 @@ Skilled with working as a team and incorporating input into projects with effect
 something until it is absolutely perfect.
 
 
-- 🔭 I’m currently working on [RUS](https://renturstatus.com) mobile App.   
+- 🔭 I’m currently working on [FOODELO](https://www.foodelo.africa) mobile App.   
 
 - 🌱 I’m currently working with Dart + Flutter
 
